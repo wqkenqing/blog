@@ -1,2 +1,2 @@
-# blog
-wang's blog
+# wqkenqing.github.io
+hexo博客使用
