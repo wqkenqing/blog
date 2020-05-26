@@ -59,6 +59,6 @@ branches:
 env:
     global:
         # Github Pages
-        - GH_REF: github.com/wqkenqing/wqkenqing.github.io.git
+        - GH_REF: github.com/wqkenqing/blog.git
         # Coding Pages
         # - CD_REF: git.coding.net/Leafney/Leafney.coding.me.git
